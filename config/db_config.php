@@ -7,6 +7,6 @@
     if($conn){
         //WE passed
     }else{
-        echo "There was a problem connecting to the server";
+        echo "Server Error";
     }
 ?>
